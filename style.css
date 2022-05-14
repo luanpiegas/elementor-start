@@ -1,0 +1,19 @@
+/*
+	Theme Name: Elementor Start
+	Author: Luan Piegas
+	Author URI: https://github.com/luanpiegas
+	Description: Tema básico para utilizar com o Elementor. Suporte ao WooCommerce é desabilitado por padrão, mas pode ser habilitado editando o arquivo functions.php
+	Requires at least: 5.9
+	Tested up to: 5.9.3
+	Requires PHP: 7.4
+	Text Domain: elementor-start
+	Version: 0.3
+*/
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
